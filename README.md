@@ -1,4 +1,3 @@
-# SOC-Investigation-Case-Reports
 # SOC Investigation Case Reports
 
 A practical cybersecurity portfolio documenting hands-on Security Operations Center (SOC), threat detection, incident response, malware analysis, and digital forensics investigations.
@@ -22,12 +21,12 @@ The objective is to demonstrate practical SOC Analyst skills, including:
 
 | Case Report | Investigation Area | Status |
 |---|---|---|
-| [Phishing Unfolding](./Case-Reports/THM-Phishing-Unfolding/) | Email analysis and SOC alert triage | In Progress |
+| [Phishing Unfolding — Case Report 001](./Case-Reports/THM-Phishing-Unfolding/Alert-001-Inheritance-Email.md) | Inheritance-themed phishing email triage | Report published; room in progress |
 | [Operation Tempest](./Case-Reports/THM-Operation-Tempest/) | Endpoint investigation and incident response | In Progress |
 
 ## Investigation Methodology
 
-Each case report follows a consistent investigation structure:
+Each completed case report aims to document:
 
 1. Incident overview
 2. Alert details and initial assessment
@@ -39,7 +38,7 @@ Each case report follows a consistent investigation structure:
 8. Findings and impact assessment
 9. Incident classification
 10. Recommended containment and remediation
-11. Final case conclusion
+11. Evidence limitations and final conclusion
 
 ## Tools and Technologies
 
