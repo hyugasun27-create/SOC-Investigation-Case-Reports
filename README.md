@@ -1,6 +1,6 @@
 # SOC Investigation Case Reports
 
-A practical cybersecurity portfolio documenting hands-on Security Operations Center (SOC), threat detection, incident response, malware analysis, and digital forensics investigations.
+A practical cybersecurity portfolio documenting hands-on SOC, threat detection, incident response, malware analysis, and digital forensics investigations.
 
 ## About This Repository
 
@@ -21,12 +21,11 @@ The objective is to demonstrate practical SOC Analyst skills, including:
 
 | Case Report | Investigation Area | Status |
 |---|---|---|
-| [Phishing Unfolding — All published reports](./Case-Reports/THM-Phishing-Unfolding/) | Email triage, endpoint process validation, malicious shortcut execution | 5 reports published; room in progress |
-| [Operation Tempest](./Case-Reports/THM-Operation-Tempest/) | Endpoint investigation and incident response | In Progress |
+| [TryHackMe — Phishing Unfolding](./Case-Reports/THM-Phishing-Unfolding/) | Email triage, endpoint process validation, malicious shortcut execution | 5 reports published; room in progress |
 
 ## Investigation Methodology
 
-Each completed case report aims to document:
+Each case report aims to document:
 
 1. Incident overview
 2. Alert details and initial assessment
@@ -51,10 +50,6 @@ Each completed case report aims to document:
 - Wazuh
 - Linux
 - MITRE ATT&CK
-
-## Learning Objectives
-
-This portfolio demonstrates continuous practical learning and the development of investigation, analytical, documentation, and incident-response skills relevant to SOC Analyst roles.
 
 ## Disclaimer
 
