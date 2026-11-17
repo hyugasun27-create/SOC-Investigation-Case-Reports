@@ -21,7 +21,7 @@ The objective is to demonstrate practical SOC Analyst skills, including:
 
 | Case Report | Investigation Area | Status |
 |---|---|---|
-| [Phishing Unfolding — Case Report 001](./Case-Reports/THM-Phishing-Unfolding/Alert-001-Inheritance-Email.md) | Inheritance-themed phishing email triage | Report published; room in progress |
+| [Phishing Unfolding — All published reports](./Case-Reports/THM-Phishing-Unfolding/) | Email triage, endpoint process validation, malicious shortcut execution | 5 reports published; room in progress |
 | [Operation Tempest](./Case-Reports/THM-Operation-Tempest/) | Endpoint investigation and incident response | In Progress |
 
 ## Investigation Methodology
